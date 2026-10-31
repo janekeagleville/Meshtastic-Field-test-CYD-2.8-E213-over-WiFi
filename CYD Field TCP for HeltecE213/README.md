@@ -6,7 +6,6 @@ Zestaw dwóch płytek połączonych **bez kabla, przez WiFi**:
 - **CYD 2,8" (ESP32-2432S028)** łączy się z E213 tak, jak w projekcie „CYD Field for HeltecV4” łączył się kablem z Heltec V4. Pokazuje kolorowy interfejs: listę węzłów, mapę, test łącza, czat, widmo i log na kartę SD.
 
 
-
 > Uwaga: oba firmware są przetestowane na hoście (symulacje E213 i CYD, test zgodności protokołu między nimi) i skompilowane dla ESP32 (rdzeń Arduino 3.x). **Nie były jeszcze uruchamiane na płytkach ani budowane na platformie `espressif32@6.9.0` z `platformio.ini`.**
 
 ## Jak to działa
